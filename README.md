@@ -25,10 +25,9 @@ I'm a dedicated Full-Stack Software Engineer with 3+ years of experience in deve
 </picture>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajdip27/Rajdip27/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajdip27/Rajdip27/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rajdip27/Rajdip27/output/snake.svg" />
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjuwel792/devjuwel792/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjuwel792/devjuwel792/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/devjuwel792/devjuwel792/output/snake.svg" />
 </picture>
 
 

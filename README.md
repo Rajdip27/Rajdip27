@@ -6,7 +6,7 @@
 ![Dipendra Neupane Github Cover Photo](https://github.com/dipneupane/dipneupane/blob/main/assets/dipneupane_readme-cover.jpg)
 
 
-## 👋 Hi, I'm Santanu Chandra(Rajdip)
+## 👋 Hi, I'm Santanu Chandra (Rajdip)
 
 I'm a dedicated Full-Stack Software Engineer with 3+ years of experience in developing reliable and efficient software solutions. While I have experience across the entire stack, my core strength and passion lie in back-end development—designing scalable architectures, building APIs, and optimizing performance. I take pride in writing clean, maintainable code and delivering solutions that make a meaningful impact.
 ## 🌐 Socials:

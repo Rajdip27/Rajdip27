@@ -11,7 +11,7 @@
 I'm a dedicated Full-Stack Software Engineer with 3+ years of experience in developing reliable and efficient software solutions. While I have experience across the entire stack, my core strength and passion lie in back-end development—designing scalable architectures, building APIs, and optimizing performance. I take pride in writing clean, maintainable code and delivering solutions that make a meaningful impact.
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/devJuwel.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santanu-chandra-6b2536296/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srajdip920@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/p/Rajdip-Raj-Santanu-100007707705327/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santanu-chandra-6b2536296/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srajdip920@gmail.com)
 
 
 ### 💻 Tech Stack:

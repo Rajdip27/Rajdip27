@@ -3,6 +3,8 @@
        alt="snake" />
 </div> -->
 
+![Dipendra Neupane Github Cover Photo](https://github.com/dipneupane/dipneupane/blob/main/assets/dipneupane_readme-cover.jpg)
+
 
 ## 👋 Hi, I'm Santanu Chandra(Rajdip)
 

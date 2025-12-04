@@ -61,3 +61,7 @@ Technology never stands still, and neither do I. I'm committed to:
 - Exploring new technologies and frameworks
 - Sharing knowledge with the developer community
 - Taking on challenging projects that push my boundaries
+
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Rajdip27&color=brightgreen&style=for-the-badge)
+
